@@ -1,0 +1,7 @@
+Ultralytics version: 8.3.59
+Torch version: 2.4.1+cu121
+Numpy version: 1.26.4
+Matplotlib version: 3.7.1
+OpenCV version: 4.10.0
+Pandas version: 2.1.4
+Seaborn version: 0.12.2

@@ -1,0 +1,15 @@
+names:
+  0: door
+  1: cabinetDoor
+  2: refrigeratorDoor
+  3: window
+  4: chair
+  5: table
+  6: cabinet
+  7: couch
+  8: openedDoor
+  9: pole
+nc: 10
+path: /kaggle/input/indoor-object-detection
+train: /kaggle/input/indoor-object-detection/train/images
+val: /kaggle/input/indoor-object-detection/test/images
