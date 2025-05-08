@@ -1,3 +1,5 @@
+![Indoor Object Detection](images/banner.png)
+
 # 🏠 Indoor Object Detection Project
 
 ## 🌟 Overview
